@@ -9,7 +9,7 @@ a. entrar no diretório e clonar o projeto
 
 b. git clone https://github.com/SanzioWesley/dsdeliver.git
 
-# Após clona o projeto acesse o diretório "front-web" e "front-mobile" execute o comando abaixo
+# Após clonar o projeto acesse o diretório "front-web" e "front-mobile" execute o comando abaixo
 
 a. npm install (comando para instalar as depêndencias)
 
